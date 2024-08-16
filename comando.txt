@@ -1,0 +1,9 @@
+git init
+git config user.name "nome"
+git config user.emial "email"
+git add --all
+git commit -m "nome"
+git status
+git log
+git add -A 
+git add .
